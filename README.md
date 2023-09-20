@@ -1,2 +1,2 @@
-- # Hello world! 
-- ## I'm studying:) 
+# Hello world! 
+# Code code code code, love code... 
